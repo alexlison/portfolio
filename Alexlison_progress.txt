@@ -5,3 +5,9 @@ landing page basic design completed
 good design theme challenging
 index and style pages committed
 
+06/02/25
+
+index page updated with about, projects , contact
+alignment of the of the cards color little bit challenging
+index,style pages , also images are updated
+
