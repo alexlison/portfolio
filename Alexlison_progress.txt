@@ -11,3 +11,8 @@ index page updated with about, projects , contact
 alignment of the of the cards color little bit challenging
 index,style pages , also images are updated
 
+07/02/25
+
+index page updated ,styles and image updated
+index,style,image committed
+
