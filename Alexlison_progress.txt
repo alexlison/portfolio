@@ -16,3 +16,7 @@ index,style pages , also images are updated
 index page updated ,styles and image updated
 index,style,image committed
 
+08/02/25
+
+index modified
+index file committed
